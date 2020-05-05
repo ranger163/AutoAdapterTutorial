@@ -1,0 +1,4 @@
+rootProject.name='Auto Adapter Tutorial'
+include ':app'
+include ':autoadapter-annotations'
+include ':autoadapter-processor'
