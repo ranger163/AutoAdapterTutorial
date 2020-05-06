@@ -1,5 +1,4 @@
 # AutoAdapterTutorial
-Simple project to practice creating recyclerView using Kotlin annotations
 
 ![Cover image](/images/cover.png)
 
